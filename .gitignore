@@ -5,6 +5,7 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 *config*
 !.gitignore
+!tsconfig.json
 
 # dependencies
 /node_modules
