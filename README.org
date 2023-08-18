@@ -25,9 +25,9 @@ This is a simple API for deploying Directus CMS + Next.js website.
 
 ** Lisätiedot / Additional info
 Tee Directukseen flow, joka tekee rajapintakutsun jonkin sopivan
-laukaisimen yhteydessä. Linkki alla. Muuta myös src_shell{.env}
+laukaisimen yhteydessä. Linkki alla. Muuta myös ~.env~
 tiedostoa tarpeidesi mukaan.
 
 Create a flow to the Directus, which does an API-request with some
-suitable trigger. Link provided below. Change the `.env` file as you
+suitable trigger. Link provided below. Change the ~.env~ file as you
 wish.
