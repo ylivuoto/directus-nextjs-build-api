@@ -31,3 +31,6 @@ tiedostoa tarpeidesi mukaan.
 Create a flow to the Directus, which does an API-request with some
 suitable trigger. Link provided below. Change the ~.env~ file as you
 wish.
+
+** Help
+https://docs.directus.io/guides/headless-cms/trigger-static-builds/
