@@ -1,0 +1,33 @@
+* Directus + Next.js build API
+Tämä on yksinkertainen rajapinta Directus CMS + Next.js
+headless-sivuston päivittämiseen.
+
+This is a simple API for deploying Directus CMS + Next.js website.
+
+** Käyttö / Usage
+
+1. 
+   #+begin_src shell
+     git clone https://github.com/ylivuoto/directus-nextjs-build-api.git
+   #+end_src
+2. 
+   #+begin_src shell
+     cd directus-nextjs-build-api
+   #+end_src
+3. 
+   #+begin_src shell
+      npm install
+   #+end_src
+4. 
+   #+begin_src shell
+     npm run build
+   #+end_src
+
+** Lisätiedot / Additional info
+Tee Directukseen flow, joka tekee rajapintakutsun jonkin sopivan
+laukaisimen yhteydessä. Linkki alla. Muuta myös src_shell{.env}
+tiedostoa tarpeidesi mukaan.
+
+Create a flow to the Directus, which does an API-request with some
+suitable trigger. Link provided below. Change the `.env` file as you
+wish.
